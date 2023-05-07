@@ -1,16 +1,11 @@
-package chart.plugin;
+package piechart.pieplugin;
 
 import chart.plugin.ChartPluginInterface;
 import controller.MainController;
-import controller.fixedbill.FixedBillAdapterXML;
 import model.FixedBill;
-import model.Member;
-import model.VIP;
 import org.knowm.xchart.XChartPanel;
-import util.PieChartPlugin;
 
 import javax.swing.*;
-import java.awt.*;
 import java.util.List;
 
 public class ChartPlugin implements ChartPluginInterface {

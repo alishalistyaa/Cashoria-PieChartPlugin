@@ -1,4 +1,4 @@
-package util;
+package piechart.pieplugin;
 
 import model.FixedBill;
 import model.Member;
